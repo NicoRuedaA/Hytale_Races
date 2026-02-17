@@ -1,0 +1,145 @@
+// PlayableRaces Dashboard UI
+$C = "../Common.ui";
+
+@RaceButton = TextButtonStyle(
+  Default: (Background: #1e2a3a, LabelStyle: (FontSize: 13, TextColor: #c8d8e8, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Hovered:  (Background: #2e3f57, LabelStyle: (FontSize: 13, TextColor: #ffffff, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Pressed:  (Background: #152030, LabelStyle: (FontSize: 13, TextColor: #aabbcc, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center))
+);
+
+@CloseButton = TextButtonStyle(
+  Default: (Background: #2b3542, LabelStyle: (FontSize: 13, TextColor: #96a9be, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Hovered:  (Background: #3b4552, LabelStyle: (FontSize: 13, TextColor: #b6c9de, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Pressed:  (Background: #1b2532, LabelStyle: (FontSize: 13, TextColor: #96a9be, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center))
+);
+
+Group {
+  Anchor: (Width: 440, Height: 520);
+  Background: #141c26(0.98);
+  LayoutMode: Top;
+  Padding: (Full: 20);
+
+  Label {
+    Text: "Selecciona tu Raza";
+    Anchor: (Height: 38);
+    Style: (FontSize: 22, TextColor: #ffffff, HorizontalAlignment: Center, RenderBold: true);
+  }
+
+  Group { Anchor: (Height: 1); Background: #2b3542; }
+  Group { Anchor: (Height: 12); }
+
+  Label #StatusText {
+    Text: "Cargando...";
+    Anchor: (Height: 26);
+    Style: (FontSize: 14, TextColor: #96a9be, HorizontalAlignment: Center);
+  }
+
+  Group { Anchor: (Height: 14); }
+
+  // ── Humano ──────────────────────────────────────────────────────────────
+  TextButton #HumanButton {
+    Text: "Humano";
+    Anchor: (Height: 36);
+    Style: @RaceButton;
+  }
+  Group { Anchor: (Height: 4); }
+  Label {
+    Text: "El habitante estándar. Sin bonificaciones ni penalizaciones.";
+    Anchor: (Height: 16);
+    Style: (FontSize: 11, TextColor: #6e7da1, HorizontalAlignment: Center);
+  }
+  Group { Anchor: (Height: 10); }
+
+  // ── Eldritch ────────────────────────────────────────────────────────────
+  TextButton #EldritchButton {
+    Text: "Eldritch";
+    Anchor: (Height: 36);
+    Style: @RaceButton;
+  }
+  Group { Anchor: (Height: 4); }
+  Label {
+    Text: "Poder arcano prohibido a cambio de tu propia vitalidad. (-20 HP, +20 Maná)";
+    Anchor: (Height: 16);
+    Style: (FontSize: 11, TextColor: #6e7da1, HorizontalAlignment: Center);
+  }
+  Group { Anchor: (Height: 10); }
+
+  // ── Anfibio ─────────────────────────────────────────────────────────────
+  TextButton #AmphibianButton {
+    Text: "Anfibio";
+    Anchor: (Height: 36);
+    Style: @RaceButton;
+  }
+  Group { Anchor: (Height: 4); }
+  Label {
+    Text: "Los océanos son tu hogar. Respira bajo el agua sin límites. (+Nado)";
+    Anchor: (Height: 16);
+    Style: (FontSize: 11, TextColor: #6e7da1, HorizontalAlignment: Center);
+  }
+  Group { Anchor: (Height: 10); }
+
+  // ── Bestia ──────────────────────────────────────────────────────────────
+  TextButton #BeastButton {
+    Text: "Bestia";
+    Anchor: (Height: 36);
+    Style: @RaceButton;
+  }
+  Group { Anchor: (Height: 4); }
+  Label {
+    Text: "Fuerza salvaje y velocidad depredadora. (-30 Maná, +25% Vel., +15% Daño)";
+    Anchor: (Height: 16);
+    Style: (FontSize: 11, TextColor: #6e7da1, HorizontalAlignment: Center);
+  }
+  Group { Anchor: (Height: 10); }
+
+  // ── Monstruo ────────────────────────────────────────────────────────────
+  TextButton #MonsterButton {
+    Text: "Monstruo";
+    Anchor: (Height: 36);
+    Style: @RaceButton;
+  }
+  Group { Anchor: (Height: 4); }
+  Label {
+    Text: "Resistente como una roca, pero lento como una tortuga. (+40 HP, -20% Vel.)";
+    Anchor: (Height: 16);
+    Style: (FontSize: 11, TextColor: #6e7da1, HorizontalAlignment: Center);
+  }
+  Group { Anchor: (Height: 10); }
+
+  // ── No Muerto ───────────────────────────────────────────────────────────
+  TextButton #UndeadButton {
+    Text: "No Muerto";
+    Anchor: (Height: 36);
+    Style: @RaceButton;
+  }
+  Group { Anchor: (Height: 4); }
+  Label {
+    Text: "No siente dolor, pero su alma está marchita. (+15 Armadura, -15 Regeneración)";
+    Anchor: (Height: 16);
+    Style: (FontSize: 11, TextColor: #6e7da1, HorizontalAlignment: Center);
+  }
+  Group { Anchor: (Height: 10); }
+
+  // ── Pie ─────────────────────────────────────────────────────────────────
+  Group { FlexWeight: 1; }
+  Group { Anchor: (Height: 1); Background: #2b3542; }
+  Group { Anchor: (Height: 10); }
+
+  Group {
+    LayoutMode: Center;
+    Anchor: (Height: 40);
+
+    TextButton #CloseButton {
+      Text: "Cerrar";
+      Anchor: (Width: 120, Height: 36);
+      Style: @CloseButton;
+    }
+  }
+
+  Group { Anchor: (Height: 8); }
+  Label {
+    Text: "Pulsa ESC para cerrar";
+    Anchor: (Height: 14);
+    Style: (FontSize: 11, TextColor: #555555, HorizontalAlignment: Center);
+  }
+}

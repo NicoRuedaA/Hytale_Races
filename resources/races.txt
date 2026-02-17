@@ -1,0 +1,8 @@
+# Lista de razas a cargar en PlayableRaces.
+# Una clase por línea, nombre simple (sin paquete).
+# La clase debe estar en NicoRueda.races e implementar RaceDefinition.
+# Las líneas vacías y las que empiezan por # se ignoran.
+
+HumanRace
+ElfRace
+EldritchRace

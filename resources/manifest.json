@@ -1,0 +1,17 @@
+{
+  "Group": "NicoRueda",
+  "Name": "PlayableRaces",
+  "Version": "0.2.0",
+  "Description": "Selección de razas jugables con UI interactiva y comandos de chat.",
+  "Authors": [{ "Name": "Nico" }],
+  "Website": "",
+  "Main": "NicoRueda.PlayableRacesPlugin",
+  "LoadOrder": "POSTWORLD",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Hytale:EntityModule": "*"
+  },
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true
+}
