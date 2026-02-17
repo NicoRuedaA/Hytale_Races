@@ -1,0 +1,16 @@
+{
+  "Group": "MyMods",
+  "Name": "MyRaceMod",
+  "Version": "1.0.0",
+  "Description": "Mod sencillo de razas: Humano y Elfo con stats distintos.",
+  "Authors": [{ "Name": "TuNombre" }],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Hytale:EntityModule": "*"
+  },
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.tuusuario.myracemod.MyRaceMod",
+  "IncludesAssetPack": false
+}

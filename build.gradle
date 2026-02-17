@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.tuusuario'
+version = '1.0.0'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+repositories {
+    mavenCentral()
+    // Repositorio local donde coloques el JAR de la API de Hytale
+    flatDir { dirs 'libs' }
+}
+
+dependencies {
+    // Coloca el JAR de la API de Hytale en la carpeta /libs del proyecto
+    compileOnly fileTree(dir: 'libs', include: ['*.jar'])
+
+    // Gson para la config JSON (igual que el mod original)
+    implementation 'com.google.code.gson:gson:2.10.1'
+}
+
+jar {
+    // Empaqueta Gson dentro del JAR final (shading manual básico)
+    from configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+    manifest {
+        attributes(
+            'Implementation-Title': 'MyRaceMod',
+            'Implementation-Version': version
+        )
+    }
+}
