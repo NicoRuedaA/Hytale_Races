@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Frizzy_Volume"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Haircuts/Frizzy_Volume.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/Frizzy_Volume_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Frizzy_Volume.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -87
+    ]
+  }
+}

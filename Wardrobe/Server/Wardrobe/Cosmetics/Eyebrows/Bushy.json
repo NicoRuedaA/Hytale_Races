@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Bushy"
+    }
+  },
+  "CosmeticSlot": "Eyebrows",
+  "Appearance": {
+    "Model": "Characters/Body_Attachments/Eyebrows/Bushy.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Eyebrows/Bushy_Greyscale.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Bushy.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -9,
+      -87
+    ]
+  }
+}

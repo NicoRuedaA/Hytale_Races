@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Icecream_Skirt"
+    }
+  },
+  "CosmeticSlot": "Overpants",
+  "Appearance": {
+    "Model": "Cosmetics/Overpants/Icecream_Skirt.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Overpants/Icecream_Skirt_Textures/Icecream_Skirt_Strawberry.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Icecream_Skirt.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -43
+    ]
+  }
+}

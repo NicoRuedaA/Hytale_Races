@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Rustic"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Haircuts/Rustic.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/Rustic_Greyscale.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Rustic.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -85
+    ]
+  }
+}

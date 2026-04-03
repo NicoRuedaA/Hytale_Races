@@ -1,0 +1,40 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Void Hero Cape"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Cosmetics/Capes/Cape_Void_Hero.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Void_Hero_Cape.png"
+        }
+      },
+      "No_Neck": {
+        "Model": "Cosmetics/Capes/Cape_Void_Hero_NoNeck.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Void_Hero_Cape.png"
+        }
+      }
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Void_Hero.png"
+}

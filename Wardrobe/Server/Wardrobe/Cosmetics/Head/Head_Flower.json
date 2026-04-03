@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Head_Flower"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Cosmetics/Head/Head_Flower.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/Head_Flower_Textures/Dahlia_Greyscale_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Head_Flower.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -15
+    ]
+  }
+}

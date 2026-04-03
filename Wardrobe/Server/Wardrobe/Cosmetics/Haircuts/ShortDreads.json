@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_ShortDreads"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Haircuts/ShortDreads.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/ShortDreads_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/ShortDreads.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -88
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/MedicalEyePatch.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/MedicalEyePatch_White.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "Medical Eye Patch",
+      "Description": "t"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Medical_Eye_Patch.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      1
+    ]
+  }
+}

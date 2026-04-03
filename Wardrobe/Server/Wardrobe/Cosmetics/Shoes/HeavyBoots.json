@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_HeavyBoots"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Cosmetics/Shoes/HeavyBoots.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/HeavyBoots_Textures/ArcticFur_Brown.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/HeavyBoots.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -4
+    ]
+  }
+}

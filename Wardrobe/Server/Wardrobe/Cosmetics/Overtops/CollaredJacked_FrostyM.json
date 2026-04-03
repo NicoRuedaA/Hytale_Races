@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/CollaredJacket.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Fixes/FrostyM.png",
+      "GradientSet": "Ornamented_Metal"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/CollaredJacked_FrostyM.png",
+  "CosmeticSlot": "Overtop",
+  "Properties": {
+    "Translation": {
+      "Name": "Collared Jacked - FrostyM"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -63
+    ]
+  }
+}

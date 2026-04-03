@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Blindfold"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Face_Accessories/Blindfold.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Face_Accessories/Blindfold_Textures/Blindfold_Bandage.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Blindfold.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      3,
+      -88
+    ]
+  }
+}

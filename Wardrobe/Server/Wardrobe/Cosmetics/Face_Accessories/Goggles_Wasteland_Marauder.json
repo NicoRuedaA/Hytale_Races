@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/Goggles_Wasteland_Marauder.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/Goggles_Wasteland_Marauder_Texture.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "Wasteland Marauder Goggles",
+      "Description": ""
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Goggles_Wasteland_Marauder.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -84
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_MinerBoots"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Cosmetics/Shoes/MinerBoots.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/MinerBoots_Textures/Black.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/MinerBoots.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -8
+    ]
+  }
+}

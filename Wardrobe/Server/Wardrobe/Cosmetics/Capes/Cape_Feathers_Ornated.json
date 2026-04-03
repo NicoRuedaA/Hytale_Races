@@ -1,0 +1,30 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Featherbound Cape"
+    }
+  },
+  "Appearance": {
+    "Type": "Model",
+    "Model": "Cosmetics/Capes/Cape_Feathers_Ornated.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Capes/Cape_Featherbound_Texture.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Feathers_Ornated.png",
+  "CosmeticSlot": "Cape",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      0,
+      220,
+      0
+    ],
+    "Translation": [
+      -10,
+      1
+    ]
+  }
+}

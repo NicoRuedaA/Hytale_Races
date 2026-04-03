@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_NeckHighJumper"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Overtops/NeckHighJumper.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Overtops/NeckHighJumper_Textures/AlpineExplorerJumper_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/NeckHighJumper.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -60
+    ]
+  }
+}

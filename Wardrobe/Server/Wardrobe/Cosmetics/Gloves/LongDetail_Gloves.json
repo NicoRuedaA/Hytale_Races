@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_LongDetail_Gloves"
+    }
+  },
+  "CosmeticSlot": "Gloves",
+  "Appearance": {
+    "Model": "Cosmetics/Gloves/LongDetail_Gloves.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Gloves/LongDetail_Gloves_Textures/LongDetail_Gloves_Void_Hero_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/LongDetail_Gloves.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      3,
+      -10
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_SoulPatch"
+    }
+  },
+  "CosmeticSlot": "FacialHair",
+  "Appearance": {
+    "Model": "Characters/Body_Attachments/Beards/SoulPatch.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Beards/SoulPatch_Greyscale.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/SoulPatch.png"
+}

@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Voidbearer_Boots"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Cosmetics/Shoes/Voidbearer_Boots.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/Voidbearer_Boots_Textures/Voidbearer_Boots_DarkGold.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Voidbearer_Boots.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -11
+    ]
+  }
+}

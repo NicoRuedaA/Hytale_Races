@@ -1,0 +1,54 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Trimmed Cape"
+    }
+  },
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Default": {
+        "Properties": {
+          "Translation": {
+            "Name": "Default"
+          }
+        },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Default.png",
+        "Model": "Cosmetics/Capes/Cape_Basic.blockymodel",
+        "TextureConfig": {
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_Basic_Textures/Cape_Trimmed_Texture.png"
+        }
+      },
+      "No_Neck": {
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Default.png",
+        "Model": "Cosmetics/Capes/Cape_Basic_NoNeck.blockymodel",
+        "TextureConfig": {
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_Basic_Textures/Cape_Trimmed_Texture.png"
+        }
+      }
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      0,
+      220,
+      0
+    ],
+    "Translation": [
+      -8,
+      -6
+    ]
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Default.png"
+}

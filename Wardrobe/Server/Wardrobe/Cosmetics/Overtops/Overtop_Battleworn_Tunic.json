@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/Battleworn_Tunic.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Faded_Leather",
+      "GrayscaleTexture": "Cosmetics/Overtops/Battleworn_Tunic_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Battleworn_Tunic.png",
+  "CosmeticSlot": "Overtop",
+  "Properties": {
+    "Translation": {
+      "Name": "Battleworn Tunic"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.35,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -50
+    ]
+  }
+}

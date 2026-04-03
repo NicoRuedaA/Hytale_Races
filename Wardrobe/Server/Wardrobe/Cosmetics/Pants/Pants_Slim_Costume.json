@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Slim - Costume"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/Pants_Slim.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Pants/Pants_Slim_Textures/Costume_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_Slim_Costume.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -32
+    ]
+  }
+}

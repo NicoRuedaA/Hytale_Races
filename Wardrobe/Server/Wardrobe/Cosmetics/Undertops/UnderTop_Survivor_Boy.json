@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Survivor"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Undertops/Top.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Undertops/Top_Textures/Survivor_Boy.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/UnderTop_Survivor_Boy.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -62
+    ]
+  },
+  "CosmeticSlot": "Undertop"
+}

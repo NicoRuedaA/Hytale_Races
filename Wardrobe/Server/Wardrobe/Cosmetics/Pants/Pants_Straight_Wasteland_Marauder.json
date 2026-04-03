@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Sraight - Wasteland"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/Pants_Straight.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Pants/Pants_Straight_Textures/Wasteland_Marauder_Pants.png"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_Straight_Wasteland_Marauder.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -30
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Mercenary"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Undertops/Top.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Undertops/Top_Textures/Mercenary_Top.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/UnderTop_Mercenary.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -62
+    ]
+  },
+  "CosmeticSlot": "Undertop"
+}

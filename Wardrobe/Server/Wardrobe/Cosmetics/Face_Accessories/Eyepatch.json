@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/EyePatch.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/EyePatch_Texture.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "Eyepatch",
+      "Description": ""
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Eyepatch.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      3
+    ]
+  }
+}

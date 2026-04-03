@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "HIgh Skirt - Popstar"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/KneePads.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Overpants/KneePads_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_KneePads.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -25
+    ]
+  }
+}

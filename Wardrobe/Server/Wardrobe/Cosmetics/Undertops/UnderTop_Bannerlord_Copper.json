@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Copper Bannerlord"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Undertops/LongSleeveShirt.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Undertops/LongSleeveShirt_Textures/Bannerlord_Undertop_Copper.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/UnderTop_Bannerlord_Copper.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -62
+    ]
+  },
+  "CosmeticSlot": "Undertop"
+}

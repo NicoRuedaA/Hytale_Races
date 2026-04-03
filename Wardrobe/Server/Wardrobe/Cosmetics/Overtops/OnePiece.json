@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_OnePiece"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Overtops/OnePiece.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Overtops/OnePiece_Textures/ApronDress_Greyscale.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/OnePiece.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -56
+    ]
+  }
+}

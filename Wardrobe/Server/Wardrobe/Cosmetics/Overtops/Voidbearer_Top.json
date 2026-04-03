@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Voidbearer_Top"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Overtops/Voidbearer_Top_textures/Voidbearer_Top_Texture.png",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Overtops/Voidbearer_Top_textures/Voidbearer_Top_Texture.png"
+    }
+  }
+}

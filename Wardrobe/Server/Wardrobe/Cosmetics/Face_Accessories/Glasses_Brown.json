@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/Glasses.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/Glasses_Textures/Glasses_Brown.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "Brown Glasses",
+      "Description": ""
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Glasses_Brown.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -84
+    ]
+  }
+}

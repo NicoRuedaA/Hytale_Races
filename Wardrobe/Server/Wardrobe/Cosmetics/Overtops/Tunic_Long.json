@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/Tunic_Long.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Overtops/Tunic_Long_Texture/Tunic_Long_Greyscale.png",
+      "GradientSet": "Faded_Leather"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Tunic_Long.png",
+  "CosmeticSlot": "Overtop",
+  "Properties": {
+    "Translation": {
+      "Name": "Long Tunic"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.35,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -44
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/Overtops_Short_Sleeve.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Overtops/Overtops_Short_Sleeve_Textures/Threaded_Shirt_Greyscale.png",
+      "GradientSet": "Fantasy_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Short_Sleeve_Threaded.png",
+  "CosmeticSlot": "Overtop",
+  "Properties": {
+    "Translation": {
+      "Name": "Short Sleeve - Threaded"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -63
+    ]
+  }
+}

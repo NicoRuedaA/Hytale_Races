@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/CollaredJacket.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Overtops/CollaredJacket_Texture/TopBomber_Texture.png",
+      "GradientSet": "Faded_Leather"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/CollaredJacked_Top_Bomber.png",
+  "CosmeticSlot": "Overtop",
+  "Properties": {
+    "Translation": {
+      "Name": "Collared Jacked - Top Bomber"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -63
+    ]
+  }
+}

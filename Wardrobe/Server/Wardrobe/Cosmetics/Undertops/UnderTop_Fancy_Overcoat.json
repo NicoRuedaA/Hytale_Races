@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Fancy Overcoat"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Undertops/LongSleeveShirt.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Fixes/Fancy_Overcoat_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/UnderTop_Fancy_Overcoat.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -65
+    ]
+  },
+  "CosmeticSlot": "Undertop"
+}

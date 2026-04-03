@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_AngledBoots"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Cosmetics/Shoes/AngledBoots.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/AngledBoots_Textures/Blazen_Wizard_Boots.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/AngledBoots.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -10
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Short"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Cosmetics/Haircut/Short.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/GenericShort_Greyscale.png"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Blazen Wizard Cape"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Cosmetics/Capes/Cape_Skeleton_Wizard02.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Variant",
+          "Variants": {
+            "Green": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Green"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_Green.png",
+              "WardrobeColor": [
+                "#008000"
+              ]
+            },
+            "Red": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Red"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_Red.png",
+              "WardrobeColor": [
+                "#ff0000"
+              ]
+            },
+            "DarkPurple": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Dark Purple"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_DarkPurple.png",
+              "WardrobeColor": [
+                "#301934"
+              ]
+            }
+          }
+        }
+      },
+      "No_Neck": {
+        "Model": "Cosmetics/Capes/Cape_Skeleton_Wizard02_NoNeck.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Variant",
+          "Variants": {
+            "Green": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Green"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_Green.png",
+              "WardrobeColor": [
+                "#008000"
+              ]
+            },
+            "Red": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Red"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_Red.png",
+              "WardrobeColor": [
+                "#ff0000"
+              ]
+            },
+            "DarkPurple": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Dark Purple"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_DarkPurple.png",
+              "WardrobeColor": [
+                "#301934"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Blazen_Wizard.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      8,
+      -24
+    ]
+  }
+}

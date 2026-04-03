@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "PopStar Cape"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Cosmetics/Capes/Cape_PopStar.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_PopStar_Textures/Cape_PopStar_Texture.png"
+        }
+      }
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_PopStar.png"
+}

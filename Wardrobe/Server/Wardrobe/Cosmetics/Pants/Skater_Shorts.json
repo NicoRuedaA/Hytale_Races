@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Skater_Shorts"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Pants/Skater_Shorts.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Pants/Skater_Shorts_Textures/Skater_Shorts_Chunky.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Skater_Shorts.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -35
+    ]
+  }
+}

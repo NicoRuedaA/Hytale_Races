@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Witch_Backup"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Haircuts/Witch_Backup.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Haircuts/Witch_Backup_Greyscale.png"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Tunic"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Overtops/Tunic.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Overtops/Tunic_Textures/Slave_GS.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Tunic.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -58
+    ]
+  }
+}

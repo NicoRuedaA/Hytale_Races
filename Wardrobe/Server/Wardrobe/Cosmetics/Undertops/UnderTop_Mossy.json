@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Mossy"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Undertops/LongSleeveShirt.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Undertops/LongSleeveShirt_Textures/Mossy_Shirt_Texture.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/UnderTop_Mossy.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -62
+    ]
+  },
+  "CosmeticSlot": "Undertop"
+}

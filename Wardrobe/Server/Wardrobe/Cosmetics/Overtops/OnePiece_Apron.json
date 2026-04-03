@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/OnePiece.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Overtops/OnePiece_Textures/ApronDress_Greyscale.png",
+      "GradientSet": "Fantasy_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/OnePiece_Apron.png",
+  "Properties": {
+    "Translation": {
+      "Name": "OnePiece - Apron"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.35,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -50
+    ]
+  },
+  "CosmeticSlot": "Overtop"
+}

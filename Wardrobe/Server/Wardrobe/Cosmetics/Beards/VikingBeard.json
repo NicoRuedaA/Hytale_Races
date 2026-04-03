@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_VikingBeard"
+    }
+  },
+  "CosmeticSlot": "FacialHair",
+  "Appearance": {
+    "Model": "Characters/Body_Attachments/Beards/VikingBeard.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Beards/VikingBeard_Greyscale.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/VikingBeard.png"
+}

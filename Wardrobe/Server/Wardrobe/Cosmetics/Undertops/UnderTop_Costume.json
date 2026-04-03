@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Costume"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Undertops/LongSleeveShirt.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Undertops/LongSleeveShirt_Textures/Costume_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/UnderTop_Costume.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -59
+    ]
+  },
+  "CosmeticSlot": "Undertop"
+}

@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/Blindfold.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/Blindfold_Textures/Blindfold_Bandage_Peeking_Flipped.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "Bandage Peeking",
+      "Description": "t"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Blindfold_Bandage_Peeking.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -87
+    ]
+  }
+}

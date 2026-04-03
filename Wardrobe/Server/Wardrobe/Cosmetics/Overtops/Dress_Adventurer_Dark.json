@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/Dress.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Overtops/Dress_Textures/Adventurer_Dark_Greyscale.png",
+      "GradientSet": "Fantasy_Cotton_Dark"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Dress_Adventurer_Dark.png",
+  "Properties": {
+    "Translation": {
+      "Name": "Dress - Adventurer Dark"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.35,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -50
+    ]
+  },
+  "CosmeticSlot": "Overtop"
+}

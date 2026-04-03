@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/Dress.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Overtops/Dress_Textures/Farmer_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Dress_Farmer.png",
+  "Properties": {
+    "Translation": {
+      "Name": "Dress - Farmer"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.35,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -50
+    ]
+  },
+  "CosmeticSlot": "Overtop"
+}

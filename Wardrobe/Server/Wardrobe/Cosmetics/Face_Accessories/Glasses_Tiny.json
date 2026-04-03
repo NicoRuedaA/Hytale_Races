@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Properties": {
+    "Translation": {
+      "Name": "Tiny Glasses",
+      "Description": ""
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/Glasses.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/Glasses_Textures/GlassesTiny_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Glasses_Tiny.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -8,
+      -78
+    ]
+  }
+}

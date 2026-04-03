@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Large Black"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/Pants_Large.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Pants/Pants_Large_Textures/Black.png"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_Large_Black.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -33
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Mossy Cape"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Cosmetics/Capes/Cape_Mossy.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Variant",
+          "Variants": {
+            "Green": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Green"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Mossy_Textures/Cape_Mossy_Texture.png",
+              "WardrobeColor": [
+                "#008000"
+              ]
+            }
+          }
+        }
+      },
+      "NoNeck": {
+        "Model": "Cosmetics/Capes/Cape_Mossy_NoNeck.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Variant",
+          "Variants": {
+            "Green": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Green"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Mossy_Textures/Cape_Mossy_Texture.png",
+              "WardrobeColor": [
+                "#008000"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Mossy.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      8,
+      -8
+    ]
+  }
+}

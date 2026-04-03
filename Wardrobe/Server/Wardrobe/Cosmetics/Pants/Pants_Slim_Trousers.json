@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Slim - Trousers"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/Pants_Slim.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Pants/Pants_Slim_Textures/Trousers_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_Slim_Trousers.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -35
+    ]
+  }
+}

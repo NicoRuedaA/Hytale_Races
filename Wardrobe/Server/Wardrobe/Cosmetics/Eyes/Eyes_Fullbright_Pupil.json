@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Eyes"
+    }
+  },
+  "CosmeticSlot": "Eyes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Eyes/Eyes_Fullbright_Pupil.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Eyes/Eyes_Textures/Outlander_Brown.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Eyes_Fullbright_Pupil.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -10,
+      -84
+    ]
+  }
+}

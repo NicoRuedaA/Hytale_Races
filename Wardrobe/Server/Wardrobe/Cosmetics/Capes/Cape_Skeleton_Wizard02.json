@@ -1,0 +1,48 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Cape_Skeleton_Wizard02"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_DarkPurple.png"
+        }
+      },
+      "No_Neck": {
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02_NoNeck.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "TextureConfig": {
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_DarkPurple.png"
+        }
+      }
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Skeleton_Wizard02.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      16,
+      165,
+      16
+    ],
+    "Translation": [
+      -7,
+      -18
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Sraight - Leather"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/Pants_Straight.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Pants/Pants_Straight_Textures/Leather_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_Straight_Leather.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -30
+    ]
+  }
+}

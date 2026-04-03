@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Pants_Straight"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Pants/Pants_Straight.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Pants/Pants_Straight_Textures/Artic_Scout_Pants.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_Straight.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -30
+    ]
+  }
+}

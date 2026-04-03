@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Properties": {
+    "Translation": {
+      "Name": "Monocle",
+      "Description": ""
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/Glasses.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/Glasses_Textures/Monocle_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Monocle.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -13,
+      -82
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Properties": {
+    "Translation": {
+      "Name": "Business Glasses",
+      "Description": ""
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/Glasses.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/Glasses_Textures/Business_Glasses_Greyscale.png",
+      "GradientSet": "Faded_Leather"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Business_Glasses.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -85
+    ]
+  }
+}

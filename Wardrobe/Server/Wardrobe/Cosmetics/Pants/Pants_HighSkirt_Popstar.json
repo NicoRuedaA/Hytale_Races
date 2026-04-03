@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "HIgh Skirt - Popstar"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/HighSkirt.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Pants/HighSkirt_Textures/PopstarSkirt_Texture.png",
+      "GradientSet": "Colored_Cotton"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_HighSkirt_Popstar.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -44
+    ]
+  }
+}

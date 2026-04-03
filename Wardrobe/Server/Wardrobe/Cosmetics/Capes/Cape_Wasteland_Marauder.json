@@ -1,0 +1,40 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Wasteland Marauder Cape"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Cosmetics/Capes/Cape_Wasteland_Marauder.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_Wasteland_Marauder_Texture.png"
+        }
+      },
+      "No_Neck": {
+        "Model": "Cosmetics/Capes/Cape_Wasteland_Marauder_NoNeck.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_Wasteland_Marauder_Texture.png"
+        }
+      }
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Wasteland_Marauder.png"
+}

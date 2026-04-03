@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/Bannerlord_Overtop.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Overtops/Bannerlord_Overtop_Texture.png",
+      "GradientSet": "Faded_Leather"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Overtop_Bannerlord.png",
+  "CosmeticSlot": "Overtop",
+  "Properties": {
+    "Translation": {
+      "Name": "Bannerlord"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.35,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -50
+    ]
+  }
+}

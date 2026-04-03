@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/OnePiece.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Overtops/OnePiece_Textures/Noble_Beige.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/OnePiece_Noble.png",
+  "Properties": {
+    "Translation": {
+      "Name": "OnePiece - Noble"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.35,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -50
+    ]
+  },
+  "CosmeticSlot": "Overtop"
+}

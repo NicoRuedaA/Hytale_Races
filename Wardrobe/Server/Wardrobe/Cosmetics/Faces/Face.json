@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Mouth"
+    }
+  },
+  "CosmeticSlot": "Face",
+  "Appearance": {
+    "Model": "Characters/Body_Attachments/Faces/Player_Face_Detached.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Faces/Faces_Detached_Textures/Older_Face.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Face.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -6,
+      -64
+    ]
+  }
+}

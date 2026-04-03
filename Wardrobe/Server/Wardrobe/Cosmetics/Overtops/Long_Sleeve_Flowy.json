@@ -1,0 +1,29 @@
+{
+  "Appearance": {
+    "Model": "Cosmetics/Overtops/Overtops_Long_Sleeve.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Fixes/Flowy_Greyscale.png",
+      "GradientSet": "Faded_Leather"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Long_Sleeve_Flowy.png",
+  "CosmeticSlot": "Overtop",
+  "Properties": {
+    "Translation": {
+      "Name": "Long Sleeve - Flowy"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -63
+    ]
+  }
+}

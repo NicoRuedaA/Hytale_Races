@@ -1,0 +1,52 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "New Beginning Cape"
+    }
+  },
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Default": {
+        "Properties": {
+          "Translation": {
+            "Name": "Default"
+          }
+        },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Cursebreaker_Gold.png",
+        "Model": "Cosmetics/Capes/Cape_Cursebreaker_Gold.blockymodel",
+        "TextureConfig": {
+          "Type": "Static",
+          "Texture": "Cosmetics/Capes/Cape_Cursebreaker_Gold_Texture.png"
+        }
+      },
+      "No_Neck": {
+        "Properties": {
+          "Translation": {
+            "Name": "No Shoulder Pads"
+          }
+        },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Cursebreaker_Gold.png",
+        "Model": "Cosmetics/Capes/Cape_Cursebreaker_Gold_NoShoulderPads.blockymodel",
+        "TextureConfig": {
+          "Type": "Static",
+          "Texture": "Cosmetics/Capes/Cape_Cursebreaker_Gold_Texture.png"
+        }
+      }
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Cursebreaker_Gold.png",
+  "CosmeticSlot": "Cape",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      0,
+      220,
+      0
+    ],
+    "Translation": [
+      -8,
+      23
+    ]
+  }
+}

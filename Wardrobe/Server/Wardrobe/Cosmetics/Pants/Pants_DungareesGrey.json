@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Dungarees Grey"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/LongDungarees.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Colored_Cotton",
+      "GrayscaleTexture": "Cosmetics/Pants/LongDungarees_Textures/Long_Dungarees_Greyscale.png"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_DungareesGrey.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -46
+    ]
+  }
+}

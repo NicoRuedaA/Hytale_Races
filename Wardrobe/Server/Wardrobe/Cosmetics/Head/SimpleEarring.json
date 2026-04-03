@@ -1,0 +1,16 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_SimpleEarring"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Cosmetics/Head/SimpleEarring.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/SimpleEarring_Textures/Copper.png"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/MouthCover.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/MouthCover_White.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "Bandage Peeking",
+      "Description": "t"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/MouthCover.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -76
+    ]
+  }
+}

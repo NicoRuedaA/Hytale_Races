@@ -1,0 +1,30 @@
+{
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Cosmetics/Face_Accessories/MouthWheat.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/MouthWheat_Green.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "Wheat",
+      "Description": "Test"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Wheat.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -13,
+      -78
+    ]
+  }
+}

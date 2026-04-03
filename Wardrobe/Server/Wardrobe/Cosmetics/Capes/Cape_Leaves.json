@@ -1,0 +1,96 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Leaves Cape"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Cosmetics/Capes/Cape_Leaves.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Variant",
+          "Variants": {
+            "Green": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Green"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Leaves_Textures/Cape_Leaves_Green_Texture.png",
+              "WardrobeColor": [
+                "#008000"
+              ]
+            },
+            "Red": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Red"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Leaves_Textures/Cape_Leaves_Red_Texture.png",
+              "WardrobeColor": [
+                "#e1621d"
+              ]
+            }
+          }
+        }
+      },
+      "NoNeck": {
+        "Model": "Cosmetics/Capes/Cape_Leaves_NoNeck.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Variant",
+          "Variants": {
+            "Green": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Green"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Leaves_Textures/Cape_Leaves_Green_Texture.png",
+              "WardrobeColor": [
+                "#008000"
+              ]
+            },
+            "Red": {
+              "Properties": {
+                "Translation": {
+                  "Name": "Red"
+                }
+              },
+              "Texture": "Cosmetics/Capes/Cape_Leaves_Textures/Cape_Leaves_Red_Texture.png",
+              "WardrobeColor": [
+                "#e1621d"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Leaves.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      9,
+      -34
+    ]
+  }
+}

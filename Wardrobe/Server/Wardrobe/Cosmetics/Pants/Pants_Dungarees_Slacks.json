@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Dungarees Slacks"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/LongDungarees.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Colored_Cotton",
+      "GrayscaleTexture": "Cosmetics/Pants/LongDungarees_Textures/Long_Dungarees_Slacks.png"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_Dungarees_Slacks.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -44
+    ]
+  }
+}

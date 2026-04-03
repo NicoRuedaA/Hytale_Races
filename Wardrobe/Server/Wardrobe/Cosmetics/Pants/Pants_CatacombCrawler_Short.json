@@ -1,0 +1,29 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Catacomb Crawler Short"
+    }
+  },
+  "Appearance": {
+    "Model": "Cosmetics/Pants/CatacombCrawler_Short.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Pants/CatacombCrawler_Short_Texture.png"
+    }
+  },
+  "CosmeticsSlopt": "Pants",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_CatacombCrawler_Short.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -44
+    ]
+  }
+}
